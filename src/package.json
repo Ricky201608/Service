@@ -1,0 +1,18 @@
+{
+  "name": "svc",
+  "version": "0.0.1",
+  "description": "a javascript service framework. a service provide actions to do business and can bind data to states",
+  "repository": {
+	"type": "git",
+	"url": "git+https://github.com/svcjs/Service.git"
+  },
+  "author": {
+	"name": "Star",
+	"email": "star3s@126.com"
+  },
+  "license": "MIT",
+  "bugs": {
+	"url": "https://github.com/svcjs/Service/issues"
+  },
+  "homepage": "https://github.com/svcjs/Service#readme"
+}
